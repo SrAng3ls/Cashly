@@ -1,5 +1,5 @@
 <?php
-// Ajusta estos datos a tu instalación local de MySQL.
+// union de la base de datos
 define('DB_HOST', '127.0.0.1');
 define('DB_NAME', 'cashly');
 define('DB_USER', 'root');
